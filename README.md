@@ -2,7 +2,7 @@
 
 My fork of dmenu. I no longer use this, I now use rofi.
 
-I'm not even sure if it has any patches. I think I just changed the colors.
+I'm not even sure if it has any patches. I think I just changed the colors and font.
 
 # installation
 
